@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553063885 source:/home/ojas/projects/codeblocks-projects/maze game/main.cpp
+	<fstream>
+	<ncurses.h>
+
