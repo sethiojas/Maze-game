@@ -1,5 +1,4 @@
 /*
-Made by Ojas Sethi
 This maze game is a fun stand-alone mini project.
 
 NOTE:
